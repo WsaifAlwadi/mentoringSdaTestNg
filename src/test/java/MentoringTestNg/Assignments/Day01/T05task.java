@@ -12,7 +12,7 @@ import java.time.Duration;
 
 public class T05task {
     /*
-            Task 5: Soft Assertions Practice
+           // Task 5: Soft Assertions Practice
             Test Case: Negative Login Test
         1. Navigate to https://claruswaysda.github.io/signin.html
         2. Enter username: "wronguser"

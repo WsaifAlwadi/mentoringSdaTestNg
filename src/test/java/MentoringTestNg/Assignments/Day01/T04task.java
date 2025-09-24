@@ -10,7 +10,7 @@ import java.time.Duration;
 
 public class T04task {
     /*
-            Test Case: Positive Login Test
+            \\Test Case: Positive Login Test
         1. Navigate to https://claruswaysda.github.io/signIn.html
         2. Enter username: "admin"
         3. Enter password: "123"
