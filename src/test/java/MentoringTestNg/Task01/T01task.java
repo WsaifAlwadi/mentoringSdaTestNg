@@ -10,7 +10,7 @@ public class T01task {
     //Implement all TestNG annotations (@BeforeSuite, @BeforeTest, @BeforeClass, @BeforeMethod,
     //@Test, @AfterMethod, @AfterClass, @AfterTest, @AfterSuite)
     //Add print statements in each method to observe execution order
-    //Create 2 test methods
+    //Create  test methods
     //Run the test and analyze console output
     @BeforeSuite
     public void beforeSuite() {

@@ -21,7 +21,7 @@ public class T05task {
         5. Use soft assertions to verify:
              - JavaScript alert is displayed
              - Alert message text is "Incorrect username or password"
-        Implementation Requirements:
+        Implementation Requirements
         - Create class SoftAssertLoginTest
         - Handle JavaScript alert using WebDriver's Alert interface
         - Use SoftAssert object for assertions
@@ -57,9 +57,7 @@ public class T05task {
                 "Incorrect username or password",
                 "Alert text does not match expected!");
 
-
         alert.accept();
-
 
         softAssert.assertAll();
     }

@@ -8,7 +8,7 @@ public class T02task {
     Create one test method with enabled = false Create a test method with
      timeout of 3 seconds that includes Thread.sleep(2000)
       Create a test method with timeout of 1 second that includes Thread.sleep(2000)
-      6. Add meaningful descriptions to all test methods
+      6 Add meaningful descriptions to all test methods
       Create test methods with groups: "smoke" , "regression" , "api"
 */
 
