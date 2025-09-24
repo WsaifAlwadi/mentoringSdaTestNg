@@ -38,7 +38,7 @@ public class T05task {
         driver.manage().window().maximize();
     }
     @Test
-    void NegativeLogin() {
+    void testNegativeLogin() {
         driver.get("https://claruswaysda.github.io/signIn.html");
 
 

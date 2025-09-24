@@ -34,7 +34,7 @@ public class T04task {
         driver.manage().window().maximize();
     }
     @Test
-    void PositiveLogin(){
+    void testPositiveLogin(){
         driver.get("https://claruswaysda.github.io/signIn.html");
 
         driver.findElement(By.id("username")).sendKeys("admin");
