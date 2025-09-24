@@ -22,11 +22,11 @@ public class T05task {
              - JavaScript alert is displayed
              - Alert message text is "Incorrect username or password"
         Implementation Requirements
-        - Create class SoftAssertLoginTest
-        - Handle JavaScript alert using WebDriver's Alert interface
-        - Use SoftAssert object for assertions
-        - Include proper assertAll call
-        - Add meaningful assertion messages
+        -Create class SoftAssertLoginTest
+        -Handle JavaScript alert using WebDriver's Alert interface
+        -Use SoftAssert object for assertions
+        -Include proper assertAll call
+        -Add meaningful assertion messages
      */
 
     protected WebDriver driver;

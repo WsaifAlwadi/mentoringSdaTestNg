@@ -23,7 +23,7 @@ public class T04task {
         Create class HardAssertLoginTest
         Use appropriate WebDriver setup and teardown
         Implement proper element locators
-        Use meaningful assertion messages
+        Using meaningful assertion messages
      */
 
     protected WebDriver driver;
