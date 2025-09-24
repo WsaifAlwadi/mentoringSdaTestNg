@@ -1,4 +1,4 @@
-package MentoringTestNg.Task01;
+package MentoringTestNg.D01tasks;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;

@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AmazonSearchSuite">
+    <test name="AmazonSearchTest_Java">
+        <parameter name="searchKeyword" value="Java"/>
+        <classes>
+            <class name="MentoringTestNg.Assignments.Day02.N01task"/>
+        </classes>
+    </test>
+
+    <test name="AmazonSearchTest_Selenium">
+        <parameter name="searchKeyword" value="Selenium"/>
+        <classes>
+            <class name="MentoringTestNg.Assignments.Day02.N01task"/>
+        </classes>
+    </test>
+</suite>
