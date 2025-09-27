@@ -10,7 +10,6 @@ public class C09_DependsOnMethodTes extends TestBase {
         Then go to Google depending on Facebook
         Then go to Amazon depending on Google
      */
-
     @Test
     void facebookTest() {
         driver.get("https://facebook.com");
