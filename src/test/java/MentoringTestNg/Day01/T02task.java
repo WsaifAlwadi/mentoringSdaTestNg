@@ -1,4 +1,4 @@
-package MentoringTestNg.D01tasks;
+package MentoringTestNg.Day01;
 
 import org.testng.annotations.Test;
 
